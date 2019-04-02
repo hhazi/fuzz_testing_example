@@ -1,5 +1,7 @@
+
 def test_sort_list_of_ints():
     ints = [1, 5, 4, 3, 2]
+    print(ints)
 
     result = sorted(ints)
 
